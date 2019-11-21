@@ -4,6 +4,5 @@ public class IntWay {
         int y = 200;
         int z = x + y;
         System.out.println(z);
-
     }
 }
