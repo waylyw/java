@@ -18,5 +18,3 @@ public class BaseKnow {
         System.out.println("公众号：大数据学苑");
     }
 }
-
-https://github.com/way9514/imgs/blob/master/qrcode_for_gh_aa88d636fd42_258.jpg?raw=true
